@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Ai_tank\AI Tank Project\Bots\C++\C++Template\AI_Template\src\main.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+E:\Ai_tank\AI Tank Project\Bots\C++\C++Template\AI_Template\src\main.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+E:\Ai_tank\AI Tank Project\Bots\C++\C++Template\AI_Template\src\main.cpp(214,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Ai_tank\AI Tank Project\Bots\C++\C++Template\AI_Template\src\main.cpp(215,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  AI_Template.vcxproj -> E:\Ai_tank\AI Tank Project\Bots\C++\C++Template\2015_Debug\AI_Template.exe
